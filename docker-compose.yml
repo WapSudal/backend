@@ -1,6 +1,0 @@
-name: stroke-spoiler
-
-services:
-  backend:
-    build: .
-    restart: unless-stopped
