@@ -76,7 +76,7 @@ dependencies = [
 ]
 
 [package.metadata]
-requires-dist = [{ name = "fastapi", extras = ["standard"], specifier = ">=0.120.0" }]
+requires-dist = [{ name = "fastapi", extras = ["standard"], specifier = ">=0.122.0" }]
 
 [[package]]
 name = "certifi"
