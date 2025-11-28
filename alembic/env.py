@@ -16,7 +16,7 @@ from alembic import context
 # Example: from src.models.item import Item
 
 # Import settings for database URL
-from src.core.config import settings
+from app.core.config import settings
 
 # Alembic Config object
 config = context.config

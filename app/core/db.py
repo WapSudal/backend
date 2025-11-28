@@ -14,7 +14,7 @@ from sqlalchemy.ext.asyncio import (
 )
 from sqlalchemy.pool import NullPool
 
-from src.core.config import settings
+from app.core.config import settings
 
 
 def create_engine() -> AsyncEngine:
